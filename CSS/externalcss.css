@@ -1,0 +1,13 @@
+h1{
+    color: rgb(245, 5, 5);font-size:x-large;font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style:double;border-color: rgb(102, 34, 203);
+    background-color: aquamarine;
+}
+h2{
+    color: rgb(5, 245, 29);font-size:x-large;font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style:dashed;border-color: rgb(203, 34, 34);
+    background-color: rgb(69, 19, 197);
+    
+}

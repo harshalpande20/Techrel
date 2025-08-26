@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2, h3, h4 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+td, th {
+    padding: 8px;
+    vertical-align: top;
+}
+
+input[type="text"], input[type="email"] {
+    width: 90%;
+    padding: 5px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.section {
+    background-color: #5075a2;
+    padding: 8px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.undertaking {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.signature {
+    margin-top: 20px;
+}
+
+input[type="text"][size="10"],
+input[type="text"][size="2"],
+input[type="text"][size="4"] {
+    width: auto;
+}
+
+table.border th, table.border td {
+    border: 1px solid black;
+}
+
+.terms {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 15px;}
